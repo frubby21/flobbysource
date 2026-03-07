@@ -1,0 +1,1 @@
+org.angelauramc.amethyst-ios.ipa.zip filter=lfs diff=lfs merge=lfs -text
